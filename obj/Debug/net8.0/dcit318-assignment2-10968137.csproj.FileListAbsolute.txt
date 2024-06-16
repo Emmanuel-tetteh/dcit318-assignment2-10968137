@@ -12,3 +12,4 @@ c:\Users\EAT\Desktop\dcit318-assignment2-10968137 File\dcit318-assignment2-10968
 c:\Users\EAT\Desktop\dcit318-assignment2-10968137 File\dcit318-assignment2-10968137\obj\Debug\net8.0\dcit318-assignment2-10968137.pdb
 C:\Users\EAT\Desktop\dcit318-assignment2-10968137 File\dcit318-assignment2-10968137\obj\Debug\net8.0\dcit318-assignment2-10968137.genruntimeconfig.cache
 C:\Users\EAT\Desktop\dcit318-assignment2-10968137 File\dcit318-assignment2-10968137\obj\Debug\net8.0\ref\dcit318-assignment2-10968137.dll
+c:\Users\EAT\Desktop\dcit318-assignment2-10968137 File\dcit318-assignment2-10968137\obj\Debug\net8.0\dcit318-assignment2-10968137.sourcelink.json
